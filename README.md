@@ -85,16 +85,20 @@ End-to-end data engineering platform processing **1.6 million job postings** —
 
 ## 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yesbol466&show_icons=true&locale=en&layout=compact&theme=dark" alt="yesbol466" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yesbol466&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yesbol466&show_icons=true&locale=en&theme=dark" alt="yesbol466" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yesbol466&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yesbol466&theme=dark" alt="yesbol466" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesbol466&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/yesbol466" alt="contribution graph" />
 </p>
 
 ---
