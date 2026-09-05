@@ -87,11 +87,17 @@ End-to-end data engineering platform processing **1.6 million job postings** —
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesbol466&show_icons=true&locale=en&layout=compact" alt="yesbol466" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yesbol466&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yesbol466&show_icons=true&locale=en" alt="yesbol466" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yesbol466&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yesbol466&" alt="yesbol466" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yesbol466&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
 
 ---
 
