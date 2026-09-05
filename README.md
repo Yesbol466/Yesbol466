@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yesbol Yerlan</h1>
-<h3 align="center">Data Engineer & Software Engineer | Warsaw, Poland</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Data+Engineer;Software+Engineer;Python+%7C+SQL+%7C+Kubernetes;Always+building+something+new" alt="Typing SVG" />
-</div>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=yesbol466&label=Profile%20views&color=0e75b6&style=flat" alt="yesbol466" />
-</p>
+<h3><code>yesbol@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>yesbol@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./yesbol-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -30,19 +36,6 @@ End-to-end data engineering platform processing **1.6 million job postings** —
 | Deployment | Vercel + Render |
 
 🔗 [Live Dashboard](https://job-market-trends.vercel.app) • [GitHub Repo](https://github.com/Yesbol466/job-market-trends) • [API Docs](https://job-trends-api.onrender.com/docs)
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Sc. Computer Science — Warsaw University of Technology (2026)
-- 📚 Admitted to M.Sc. Applied Computer Science — Politechnika Warszawska
-- 💼 Game Tester @ Lionbridge Poland — QA pipelines, regression & localization testing
-- 🧠 AI/ML Intern @ Tai'an Huicai Software, China — credit risk scoring system
-- 🔍 AI/ML Intern @ Zerde Business Solutions, Kazakhstan — fraud detection system (35% improvement)
-- 🌍 Based in Warsaw, open to hybrid, on-site or remote
-- 📫 Reach me at **yesbol.yerlan@icloud.com**
-- ⚡ Fun fact: I built a pipeline that processes 1.6M rows and deployed it on Kubernetes
 
 ---
 
@@ -82,25 +75,6 @@ End-to-end data engineering platform processing **1.6 million job postings** —
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yesbol466&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Yesbol466/Yesbol466/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Yesbol466/Yesbol466/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Yesbol466/Yesbol466/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
