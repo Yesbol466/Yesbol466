@@ -1,10 +1,5 @@
 <div align="center">
 
-<h3><code>yesbol@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-
-<br><br>
-
 <h3><code>yesbol@github ~ $ whoami</code></h3>
 <table>
   <tr>
@@ -75,6 +70,15 @@ End-to-end data engineering platform processing **1.6 million job postings** —
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+<div align="center">
+
+<h3><code>yesbol@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+</div>
 
 ---
 
